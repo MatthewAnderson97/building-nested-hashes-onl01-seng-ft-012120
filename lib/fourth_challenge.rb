@@ -10,7 +10,7 @@ def fourth_challenge
         attitude: "worried"},
         {name: "Mercutio",
         age: "18",
-        attitdue: "hot-headed"}#your hashes here!
+        attitude: "hot-headed"}#your hashes here!
       ]
    }, 
    :capulet => {
