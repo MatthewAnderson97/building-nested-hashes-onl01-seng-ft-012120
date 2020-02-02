@@ -24,7 +24,7 @@ def fourth_challenge
         :second_friend => { 
           name: "Nurse",
           age: "44",
-          attitude: "worried"#your hashes here!
+          attitude: "worried"}#your hashes here!
       ]
    }
 }
