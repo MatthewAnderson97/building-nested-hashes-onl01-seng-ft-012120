@@ -20,7 +20,7 @@ def fourth_challenge
       :heroine_friends => [
         :first_friend => { name: "Steven",
         age: "30",
-        attitude: "confused"}
+        attitude: "confused"},
         :second_friend => { 
           name: "Nurse",
           age: "44",
